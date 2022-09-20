@@ -1,2 +1,2 @@
 Manifest-Version: 1.0
-Main-Class: Class1
+Main-Class: class1.Class1

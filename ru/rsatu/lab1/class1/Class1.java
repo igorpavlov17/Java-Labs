@@ -1,3 +1,7 @@
+package class1;
+
+import class2.Class2;
+
 public class Class1{
     public static void main(String args[]){
         Class2.method1();
